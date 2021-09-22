@@ -17,4 +17,3 @@
 
 [Mecanografia](https://github.com/DavidMenCam/1er-trimestre/blob/main/Mecanografia.md)
 
-[clase de binario](/home/auxiliarinformatica/Escritorio/Captura de pantalla de 2021-09-22 09-55-43.png)
