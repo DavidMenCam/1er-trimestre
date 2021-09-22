@@ -1,2 +1,2 @@
 
-![](recent:///512d56bca11a8be7c37bab3d614ae194)
+![](/home/auxiliarinformatica/Escritorio/Captura de pantalla de 2021-09-22 09-55-43.png)
