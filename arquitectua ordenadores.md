@@ -1,5 +1,5 @@
 # Arquitectura de ordenadores 
-
+La memoria ram de los ordenadores hacen que tengan un nvel de espacio bastante grande 
 
 
 
@@ -40,3 +40,11 @@ tiene 55 caracteres antiguos y no tienen ñ
 
  
 ### Ejercicio de covulasion
+
+
+
+
+
+
+
+### componentes 
