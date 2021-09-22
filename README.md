@@ -12,7 +12,7 @@
 [Trucos de markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
-[arquitectura de ordenadores](https://github.com/DavidMenCam/1er-trimestre-/blob/main/AquitecturAS%20DE%20ORDENADORES.md)
+[arquitectura de ordenadores](https://github.com/DavidMenCam/1er-trimestre/blob/main/AquitecturAS%20DE%20ORDENADORES.md)
 
 
-[Mecanografia](https://github.com/DavidMenCam/1er-trimestre-/blob/main/Mecanografia.md)
+[Mecanografia](https://github.com/DavidMenCam/1er-trimestre/blob/main/Mecanografia.md)
