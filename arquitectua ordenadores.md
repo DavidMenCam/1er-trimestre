@@ -9,6 +9,9 @@ La memoria ram de los ordenadores hacen que tengan un nvel de espacio bastante g
 
 
 
+## indice 
+
+
 
 ## clase de binario 
 Loa numeros binarios 
@@ -83,3 +86,7 @@ Altavoces :  Tempest Gaming M8 2.0 Speaker System Altavoces 10W RMS 16,99€
 Adaptador red wifi : TP-LINK TL-WN881ND 300Mbs 11n Wireless PCI Express Ver 2.0 12,98€ 
 
 PRECIO TOTAL : 832.77
+
+## Teclados 
+
+son dispositivos de entrada ,activados por pulsacion de teclas 
