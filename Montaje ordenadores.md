@@ -22,10 +22,11 @@ Despues de terminar de sacarlo todo comenzamos a montarlo de nuevo rapidamente f
 Hemos Aprendido a desmontar y montar un ordenador y situar donde estan las diferentes partes y que oncluso un ordenador antiguo entre comillas puede ser reutilizable y conseguir varias piezas en b uen funcionamento que puedan funcionar en otros pc 
 
 - Descripcion de los componentes 
-
-
-
-
+case : una tapa gris bastante grande mas o menos como una cabeza de grande
+cpu: una cpu algo pequeña pero servible para otros pc mas complejos 
+gpu: 
+ram: La ram era mucho mas simples y no muy grande comparado con otros de otros pc 
+Disco duro: Es una pieza con forma de casete para meter discos que guarda un almacenamiento grande. 
 
 - De que año es 
 
