@@ -118,7 +118,7 @@ capacidad 480 gbytes
 Precio: 42:99 
 tipo : estado solido 
 interfaz: interfaz verde y negra 
-tamaño del buffer 
+tamaño del buffer : 4,8 gigabytes 
 velocidad de ajio : 28rps 
 
 ## Reflexion sobre precios.
