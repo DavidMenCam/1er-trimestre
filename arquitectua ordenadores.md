@@ -110,4 +110,17 @@ Ataque DDOS : Pedir a la vez a la vez cosas en un mismo servidor
 
 stream significa arrovo : corriente de agua 
 
-los puertod mas comunes s
+los puertod mas comunes 
+
+## Disco duro 
+
+capacidad 480 gbytes 
+Precio: 42:99 
+tipo : estado solido 
+interfaz: interfaz verde y negra 
+tamaño del buffer 
+velocidad de ajio : 28rps 
+
+## Reflexion sobre precios.
+
+Hay algunos precios bastantes engañosos , por ejemplo meidamark cuando ponen ofertas casi que todas son un fraude ya que pone que son el 20% de oferta cuando nisiquiera es un 10%.
