@@ -17,7 +17,7 @@ Despues de terminar de sacarlo todo comenzamos a montarlo de nuevo rapidamente f
 - proceso de montaje 
   [](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/IMG_20210929_123455.jpg)
   El proceso de omntaje fue el mas complicado ya que nos costaba poner todos los tornillos de nuevo haciendo que se complicara la tarea cuando justo perdemos un tornillo de la placa base , justo despues poner el ventilador  al pc fue otra cosa de las mas dificiles yan que no s podia poner asi como asi haciendo que fuera dificil de poner de nuevo su propia tapa pero despues de todo pudimos montarlol facilmente por asi decirlo. 
-
+[](
 - Que habeis aprendido 
 Hemos Aprendido a desmontar y montar un ordenador y situar donde estan las diferentes partes y que oncluso un ordenador antiguo entre comillas puede ser reutilizable y conseguir varias piezas en b uen funcionamento que puedan funcionar en otros pc 
 
