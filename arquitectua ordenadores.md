@@ -90,3 +90,24 @@ PRECIO TOTAL : 832.77
 ## Teclados 
 
 son dispositivos de entrada ,activados por pulsacion de teclas 
+
+
+## Internet y redes 
+
+ejemplo : envio un whatsap aqui tengo un telefono y ese telefono tengo conectado al wifi y el wifi a un router 
+
+### redes locales LAN 
+
+LAN : local ant network 
+
+protocolo tcp / ip 
+
+DHCP : Asique de forma automatica Las ips de las ordenadores 
+
+depende de que objeto tiene diferentes ips 
+
+Ataque DDOS : Pedir a la vez a la vez cosas en un mismo servidor 
+
+stream significa arrovo : corriente de agua 
+
+los puertod mas comunes s
