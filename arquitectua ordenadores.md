@@ -124,3 +124,32 @@ velocidad de ajio : 28rps
 ## Reflexion sobre precios.
 
 Hay algunos precios bastantes engañosos , por ejemplo meidamark cuando ponen ofertas casi que todas son un fraude ya que pone que son el 20% de oferta cuando nisiquiera es un 10%.
+
+
+velocidad - frecuencia - ancho de banda
+  bits/s      H3              bits 
+  
+  # los buses de datos tienen una determinada capacidad 
+  
+ de transicion de informacion Esta capacidad se mide en informacion / por ejemplo bits{s , KB/s,MB/s,GB/s
+ 
+ para pasara  bits (b) a byte (B) dividimos entre 8 
+ 
+ kilo byte a MegaByte (MB) 
+ 
+ Kb es un MB 
+ 
+ MB a GigaByte (GB) 
+ 
+ MB en un GB 
+ 
+ la de tranmision del bus multiplicado por el numero de bits por paquete la formacionde hate, hergas .segunda 
+ 
+ estas potencias pueden referirse habitaualmente a frecuencias de reloj para rasmitir datos es decir un mega hercio es igual a un millon de hercios 
+ o un kilohercio es igual a mil hercios 
+ 
+ fundiones basicas 
+ 
+ acesso bassico 
+ untalar otros programas que no te hacheb t que no te yueda usar 
+ añadir otros driver y ordenadores 
