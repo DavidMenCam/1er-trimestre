@@ -23,7 +23,7 @@ Las líneas horizontales suelen ser
 240p (240 pixeles de alto)
 
 
-
+cada una de estas formas esta definida matematicamente 
 
 
 
@@ -34,3 +34,13 @@ Las líneas horizontales suelen ser
 
 ![](https://efacico.files.wordpress.com/2016/09/trump.gif?w=300)
  
+Rasterizar una imagen ,sirve para que de una imagen vectoria a una imagen razer 
+
+vectorizar es pasar de un mapa de bits .
+
+### Ejercicio vectorizacion 
+
+Vamos a tomar la imagen del cuadro del leon de rosa bonheur , esta es la imagen rasterizada original 
+
+![]()
+[El Cid](https://es.wikipedia.org/wiki/El_Cid_(Rosa_Bonheur)
