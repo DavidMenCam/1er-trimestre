@@ -18,9 +18,9 @@ Las imagenes se se guardan digitalmente de das maneras
 
 
 
-![](file:///home/auxiliarinformatica/Escritorio/%C3%ADndice.jpeg)
+![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/%C3%ADndice.jpeg)
 
-![](file:///home/auxiliarinformatica/Escritorio/%C3%ADndice.png)
+![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/%C3%ADndice.png)
 
 ![](https://efacico.files.wordpress.com/2016/09/trump.gif?w=300)
  
