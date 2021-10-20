@@ -63,3 +63,5 @@ esto son mis tres leones los cuals los eh hecho mezclando una muestra de coloere
 El primero me ah costado un poco mas ya que eh puesto varios fondos entre ellos uno azul que se ve claramente y aun mas atras esta ek cuadro orgiinal que solo lo puedes diferenciar si mira el morro del cuadro del leon .
 
 El segundo y el tercero ah sido mas facil el segundo eh jugado un poco con el color negro y el segundo lo eh rotado hacia la derecha haciendo que de otro efecto diferente y el tercero tiene menos sombra pero el cuadro esta mas detallado .
+
+como podeis ver los tres leones tienen posiciones diferentes 
