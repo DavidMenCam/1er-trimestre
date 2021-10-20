@@ -19,3 +19,4 @@
 
 [Mecanografia](https://github.com/DavidMenCam/1er-trimestre/blob/main/Mecanografia.md)
 
+[InkScape.md]()
