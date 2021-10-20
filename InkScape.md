@@ -42,5 +42,5 @@ vectorizar es pasar de un mapa de bits .
 
 Vamos a tomar la imagen del cuadro del leon de rosa bonheur , esta es la imagen rasterizada original 
 
-![]()
+![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leoon.jpg)
 [El Cid](https://es.wikipedia.org/wiki/El_Cid_(Rosa_Bonheur)
