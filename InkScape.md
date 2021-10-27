@@ -94,5 +94,30 @@ y el leon 5  1500 x 1822
  
  ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leon%207png.png)
  
+ ## LOGOS InkScape
+ 
+ Os contare Como eh podido hacer el logo de Fagor desde cero 
+ 
+ Primero de todo como es normal cojemos las herramientas de figuras entre ellas la mas ijmportate el circulo y el cuadrado/rectangulo 
+ Crearemos un circulo bastante grande y dos rectangulos mas pequeños 
+ 
+ ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/captura%20logo%201.png)
+ 
+ Ahora con la ayuda de los triangulos pondremos dos en casa esquina del re4ctangulo hasta que se encaje automaticamente.
+ 
+ ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/captura%20logo%202.png)
+ 
+ Cuando los triangulos esten bien encajados hay que seleccionar todo y ir ah trayecto donde le das ah diferencia y alli ya tienes tu esquina 
+ SI quieres puedes cambiar ya la redonda de color 
+ 
+ ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/captura%20logo%203.png)
+ 
+ Ya los siguientes pasos son los ultimos a continuacion ya puedes cambiar el color de los rectangulos a blanco y posarlos sobre la redonda roja 
+ para seleccionarlos junto al triangulo y hacer lo mismo que ne el paso anterior 
+ 
+ ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/captura%20lgo6%20.png)
+ 
+ Y asi fue el resultado final.
+ 
  
  
