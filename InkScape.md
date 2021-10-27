@@ -69,4 +69,22 @@ como podeis ver los tres leones tienen posiciones diferentes
 
 Aqui hemos cambiado las dimensiones de las imagenes vectorizadas de los leones 
 
+leon 1
+
 ![ ](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leon1.png)
+
+Aqui estaria el leon 2 160 x 194
+
+![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leon2.png)
+
+el leon 3 con sus dimensiones 350 x 425
+
+![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leon3.png)
+
+aqui el leon 4  800 x 972
+
+![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leon4.png)
+
+y el leon 5  1500 x 1822
+
+![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leon5.png)
