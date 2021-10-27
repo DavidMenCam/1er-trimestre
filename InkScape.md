@@ -69,4 +69,4 @@ como podeis ver los tres leones tienen posiciones diferentes
 
 Aqui hemos cambiado las dimensiones de las imagenes vectorizadas de los leones 
 
-|[](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leon1.png)
+![ ](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leon1.png)
