@@ -119,5 +119,5 @@ y el leon 5  1500 x 1822
  
  Y asi fue el resultado final.
  
- 
+ El logo de carrefour ah sido un logo mas dificil de hacer 
  
