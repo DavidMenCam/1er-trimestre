@@ -65,3 +65,8 @@ El primero me ah costado un poco mas ya que eh puesto varios fondos entre ellos 
 El segundo y el tercero ah sido mas facil el segundo eh jugado un poco con el color negro y el segundo lo eh rotado hacia la derecha haciendo que de otro efecto diferente y el tercero tiene menos sombra pero el cuadro esta mas detallado .
 
 como podeis ver los tres leones tienen posiciones diferentes 
+
+
+Aqui hemos cambiado las dimensiones de las imagenes vectorizadas de los leones 
+
+[Leon 1](https://github.com/DavidMenCam/1er-trimestre/blob/main/leon1.png)
