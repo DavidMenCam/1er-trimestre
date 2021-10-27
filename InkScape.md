@@ -88,3 +88,6 @@ aqui el leon 4  800 x 972
 y el leon 5  1500 x 1822
 
 ![](https://raw.githubusercontent.com/DavidMenCam/1er-trimestre/main/leon5.png)
+
+
+ En la rueda promaria un canal de un nivel de saturacion cromatica que va del ris al colo un canal qeu fa que els colos ccambien les sevas maneras naturals 
